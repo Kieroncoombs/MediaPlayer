@@ -8,7 +8,7 @@ body{
 .container {
     width: 100%;
     margin: 0 auto;
-    font-family:'Rubik Glitch', cursive; 
+    font-family:'Rubik Glitch';
     color: rgb(218, 208, 82);
     background-color:rgb(0, 0, 0);
 }
@@ -130,7 +130,7 @@ nav ul li a:hover::before {
 .base h1{  
     color: rgb(0, 0, 0);
     font-size: 50px;
-    font-family: 'Chivo', sans-serif;
+    font-family: 'Chivo';
 
 }
 
@@ -221,7 +221,7 @@ nav ul li a:hover::before {
 .music-info h4{
     margin: 0;
     color: rgb(255, 255, 255);
-    font-family: 'Chivo', sans-serif;
+    font-family: 'Chivo';
 
     
 
